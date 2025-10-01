@@ -1,0 +1,24 @@
+conversionAction,status,countingMethod,attributionModel,enhancedConversions,valueRuleApplied,includeInConversions,primaryForGoal
+Perfectlysnug.com (web) purchase,HIDDEN,MANY_PER_CLICK,GOOGLE_ADS_LAST_CLICK,False,False,False,False
+Perfectlysnug.com (web) ecommerce_purchase,HIDDEN,MANY_PER_CLICK,GOOGLE_ADS_LAST_CLICK,False,False,False,False
+Purchase,ENABLED,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Newsletter Sign-up,ENABLED,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,False,False
+Transactions (4. Raw View - All Web Site Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Transactions (2. US - Filtered Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Transactions (3. CA - Filtered Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Calls from ads,REMOVED,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Smart Goal (4. Raw View - All Web Site Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Purchase (4. Raw View - All Web Site Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Purchase (3. CA - Filtered Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Purchase (2. US - Filtered Data),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Transactions (1. Main View),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Purchase (1. Main View),HIDDEN,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Purchase (1),REMOVED,MANY_PER_CLICK,GOOGLE_ADS_LAST_CLICK,False,False,True,False
+Add To Cart Feed For Google Shopping app #20220304230152,ENABLED,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,False,False
+Begin Checkout Feed For Google Shopping app #20220304230152,ENABLED,MANY_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,False,False
+YouTube channel subscriptions,ENABLED,ONE_PER_CLICK,GOOGLE_ADS_LAST_CLICK,False,False,False,False
+1.PS.com (Web) - GA4 (web) purchase,HIDDEN,MANY_PER_CLICK,UNKNOWN,False,False,False,False
+Purchase (Page load perfectlysnug.com/thank_you),REMOVED,ONE_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+Android installs (all other apps),ENABLED,ONE_PER_CLICK,GOOGLE_ADS_LAST_CLICK,False,False,False,False
+Submit lead form (Form submission try.perfectlysnug.com/discount_giveaway),REMOVED,ONE_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False
+OctoberGiveaway,REMOVED,ONE_PER_CLICK,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,False,False,True,False

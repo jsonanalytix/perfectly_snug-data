@@ -1,0 +1,139 @@
+dateRange,type,reason,expectedImpact,applied
+Ongoing,Exclusion,Excluded LOCATION for CA_Search_Branded_MaxConversion,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_Competitor_EightSleep_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_Competitor_ChiliSleep_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_Competitor_BedJet_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US+CA_Search_Unbranded_General_Exact+Phrase_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US+CA_Search_Unbranded_Competitor_ChiliSleep_Exact+Phrase_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US_PerformanceMax_TotalCoverage_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for CA_PerformanceMax_TotalCoverage_MaxConvValue,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded LOCATION for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for NA - Search - Promotional,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA - Search - Generic,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_MaxConversiontCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_MaxConversion,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_TIS-TOP80 US_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_TIS-TOP80 CA_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_MaxConversiontCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_MaxConversion,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_TIS-TOP80 US_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_TIS-TOP80 CA_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_MaxConversiontCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_MaxConversion,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_TIS-TOP80 US_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_TIS-TOP80 CA_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for PS - Video Website Traffic - 2020-10-27,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for PS - Video Website Traffic - 2020-10-27,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Prospecting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Retargeting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for PS - Video Website Traffic - 2020-10-27,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Prospecting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Retargeting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for PS - Video Website Traffic - 2020-10-27,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Prospecting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded CONTENT_LABEL for Video / Retargeting / CA & US,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for Performance Max / NA / $270,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA - Search - Generic,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA - Search - Generic,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_MaxConversiontCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_MaxConversion,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Search_Branded_TIS-TOP80 US_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA_Search_Branded_TIS-TOP80 CA_Search_Branded_MaxConvOLD,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for CA - Search - Generic,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US - Search - Generic,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Shopping_Unbranded_tROAS,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-SleepSystem_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-SleepSystem_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US_Shopping_Unbranded_tROAS,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded BRAND_LIST for US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded BRAND_LIST for CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,N/A,true
+Ongoing,Exclusion,Excluded BRAND_LIST for US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded BRAND_LIST for CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded KEYWORD for US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,N/A,true
+Ongoing,Exclusion,Excluded WEBPAGE for US/CA_Search_Unbranded_DSA_MaxConvtCPA,N/A,true

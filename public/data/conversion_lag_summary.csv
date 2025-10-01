@@ -1,0 +1,29 @@
+month,season,channel,p50,p90,tail7Share
+2024-09,OffSeason,Search,0,0,0.0
+2024-10,OffSeason,Search,1,10,0.1454
+2024-11,OffSeason,Search,3,13,0.1607
+2024-12,OffSeason,Search,0,0,0.0307
+2025-01,OffSeason,Search,1,12,0.1001
+2025-01,OffSeason,Shopping,0,0,0.0067
+2025-02,OffSeason,Demand Gen,0,0,0.0
+2025-02,OffSeason,Search,1,3,0.0273
+2025-02,OffSeason,Shopping,14,14,0.3113
+2025-03,OffSeason,Demand Gen,30,30,1.0
+2025-03,OffSeason,Search,1,14,0.1837
+2025-03,OffSeason,Shopping,4,7,0.121
+2025-04,OffSeason,Demand Gen,0,0,0.0
+2025-04,OffSeason,Search,1,14,0.2173
+2025-04,OffSeason,Shopping,1,2,0.0176
+2025-05,OffSeason,Demand Gen,0,0,0.0
+2025-05,OffSeason,Search,1,9,0.1388
+2025-05,OffSeason,Shopping,1,9,0.163
+2025-06,Summer,Demand Gen,2,6,0.0929
+2025-06,Summer,Search,1,21,0.252
+2025-06,Summer,Shopping,1,21,0.1167
+2025-07,Summer,Demand Gen,14,14,0.1144
+2025-07,Summer,Search,1,21,0.2974
+2025-07,Summer,Shopping,1,21,0.4176
+2025-08,Summer,Search,1,8,0.1075
+2025-08,Summer,Shopping,1,7,0.1259
+2025-09,OffSeason,Search,1,4,0.0509
+2025-09,OffSeason,Shopping,1,5,0.0

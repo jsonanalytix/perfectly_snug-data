@@ -1,0 +1,841 @@
+Hour of the day,Day of the week,Campaign type,Search top IS,Search lost IS (budget),Search lost IS (rank)
+0,Sunday,Search,< 10%,34.92%,53.7%
+0,Sunday,Shopping,--,--,--
+0,Sunday,Video,--,--,--
+0,Sunday,Demand Gen,--,--,--
+0,Sunday,Performance Max,--,20.41%,76.32%
+0,Monday,Search,< 10%,37.38%,52.23%
+0,Monday,Shopping,--,--,--
+0,Monday,Video,--,--,--
+0,Monday,Demand Gen,--,--,--
+0,Monday,Performance Max,--,16.28%,80.75%
+0,Tuesday,Search,< 10%,33.43%,56.39%
+0,Tuesday,Shopping,--,--,--
+0,Tuesday,Video,--,--,--
+0,Tuesday,Demand Gen,--,--,--
+0,Tuesday,Performance Max,--,13.36%,83.15%
+0,Wednesday,Search,< 10%,26.92%,62.51%
+0,Wednesday,Shopping,--,--,--
+0,Wednesday,Video,--,--,--
+0,Wednesday,Demand Gen,--,--,--
+0,Wednesday,Performance Max,--,6.74%,89.9%
+0,Thursday,Search,< 10%,26.49%,63.02%
+0,Thursday,Shopping,--,--,--
+0,Thursday,Video,--,--,--
+0,Thursday,Demand Gen,--,--,--
+0,Thursday,Performance Max,--,9.69%,86.81%
+0,Friday,Search,< 10%,27.82%,60.53%
+0,Friday,Shopping,--,--,--
+0,Friday,Video,--,--,--
+0,Friday,Demand Gen,--,--,--
+0,Friday,Performance Max,--,14.52%,82.24%
+0,Saturday,Search,< 10%,29.26%,58.76%
+0,Saturday,Shopping,--,--,--
+0,Saturday,Video,--,--,--
+0,Saturday,Demand Gen,--,--,--
+0,Saturday,Performance Max,--,12.91%,83.71%
+1,Sunday,Search,< 10%,34.4%,53.66%
+1,Sunday,Shopping,--,--,--
+1,Sunday,Video,--,--,--
+1,Sunday,Demand Gen,--,--,--
+1,Sunday,Performance Max,--,20.04%,76.46%
+1,Monday,Search,< 10%,36.74%,52.16%
+1,Monday,Shopping,--,--,--
+1,Monday,Video,--,--,--
+1,Monday,Demand Gen,--,--,--
+1,Monday,Performance Max,--,16.04%,81.18%
+1,Tuesday,Search,< 10%,32.46%,57.37%
+1,Tuesday,Shopping,--,--,--
+1,Tuesday,Video,--,--,--
+1,Tuesday,Demand Gen,--,--,--
+1,Tuesday,Performance Max,--,13.59%,82.88%
+1,Wednesday,Search,< 10%,25.74%,63.3%
+1,Wednesday,Shopping,--,--,--
+1,Wednesday,Video,--,--,--
+1,Wednesday,Demand Gen,--,--,--
+1,Wednesday,Performance Max,--,7.21%,89.28%
+1,Thursday,Search,< 10%,25.16%,63.75%
+1,Thursday,Shopping,--,--,--
+1,Thursday,Video,--,--,--
+1,Thursday,Demand Gen,--,--,--
+1,Thursday,Performance Max,--,9.57%,86.98%
+1,Friday,Search,< 10%,27.92%,60.13%
+1,Friday,Shopping,--,--,--
+1,Friday,Video,--,--,--
+1,Friday,Demand Gen,--,--,--
+1,Friday,Performance Max,--,14.87%,81.54%
+1,Saturday,Search,< 10%,28.94%,58.8%
+1,Saturday,Shopping,--,--,--
+1,Saturday,Video,--,--,--
+1,Saturday,Demand Gen,--,--,--
+1,Saturday,Performance Max,--,12.86%,83.68%
+2,Sunday,Search,< 10%,34.02%,54.09%
+2,Sunday,Shopping,--,--,--
+2,Sunday,Video,--,--,--
+2,Sunday,Demand Gen,--,--,--
+2,Sunday,Performance Max,--,19.18%,77.35%
+2,Monday,Search,< 10%,36.46%,52.51%
+2,Monday,Shopping,--,--,--
+2,Monday,Video,--,--,--
+2,Monday,Demand Gen,--,--,--
+2,Monday,Performance Max,--,15.96%,81.07%
+2,Tuesday,Search,< 10%,32.11%,55.93%
+2,Tuesday,Shopping,--,--,--
+2,Tuesday,Video,--,--,--
+2,Tuesday,Demand Gen,--,--,--
+2,Tuesday,Performance Max,--,13.14%,83.36%
+2,Wednesday,Search,< 10%,26.1%,62.55%
+2,Wednesday,Shopping,--,--,--
+2,Wednesday,Video,--,--,--
+2,Wednesday,Demand Gen,--,--,--
+2,Wednesday,Performance Max,--,7.33%,88.86%
+2,Thursday,Search,< 10%,26.65%,61.12%
+2,Thursday,Shopping,--,--,--
+2,Thursday,Video,--,--,--
+2,Thursday,Demand Gen,--,--,--
+2,Thursday,Performance Max,--,9.58%,86.82%
+2,Friday,Search,< 10%,26.88%,60.86%
+2,Friday,Shopping,--,--,--
+2,Friday,Video,--,--,--
+2,Friday,Demand Gen,--,--,--
+2,Friday,Performance Max,--,15.17%,81.14%
+2,Saturday,Search,< 10%,29.41%,57.9%
+2,Saturday,Shopping,--,--,--
+2,Saturday,Video,--,--,--
+2,Saturday,Demand Gen,--,--,--
+2,Saturday,Performance Max,--,12.92%,82.92%
+3,Sunday,Search,< 10%,33.53%,53.85%
+3,Sunday,Shopping,--,--,--
+3,Sunday,Video,--,--,--
+3,Sunday,Demand Gen,--,--,--
+3,Sunday,Performance Max,--,18.65%,77.78%
+3,Monday,Search,10.03%,36.17%,51.24%
+3,Monday,Shopping,--,--,--
+3,Monday,Video,--,--,--
+3,Monday,Demand Gen,--,--,--
+3,Monday,Performance Max,--,15.67%,81.35%
+3,Tuesday,Search,< 10%,30.92%,56.89%
+3,Tuesday,Shopping,--,--,--
+3,Tuesday,Video,--,--,--
+3,Tuesday,Demand Gen,--,--,--
+3,Tuesday,Performance Max,--,12.22%,84.09%
+3,Wednesday,Search,< 10%,27.8%,59.49%
+3,Wednesday,Shopping,--,--,--
+3,Wednesday,Video,--,--,--
+3,Wednesday,Demand Gen,--,--,--
+3,Wednesday,Performance Max,--,7.61%,88.79%
+3,Thursday,Search,10.31%,27.36%,59.1%
+3,Thursday,Shopping,--,--,--
+3,Thursday,Video,--,--,--
+3,Thursday,Demand Gen,--,--,--
+3,Thursday,Performance Max,--,10.29%,86.06%
+3,Friday,Search,10.75%,25.92%,60.5%
+3,Friday,Shopping,--,--,--
+3,Friday,Video,--,--,--
+3,Friday,Demand Gen,--,--,--
+3,Friday,Performance Max,--,15.11%,81.46%
+3,Saturday,Search,10.83%,28.15%,57.92%
+3,Saturday,Shopping,--,--,--
+3,Saturday,Video,--,--,--
+3,Saturday,Demand Gen,--,--,--
+3,Saturday,Performance Max,--,14.01%,81.74%
+4,Sunday,Search,10.43%,34.68%,51.87%
+4,Sunday,Shopping,--,--,--
+4,Sunday,Video,--,--,--
+4,Sunday,Demand Gen,--,--,--
+4,Sunday,Performance Max,--,18.39%,77.94%
+4,Monday,Search,< 10%,36.52%,50.61%
+4,Monday,Shopping,--,--,--
+4,Monday,Video,--,--,--
+4,Monday,Demand Gen,--,--,--
+4,Monday,Performance Max,--,15.38%,81.59%
+4,Tuesday,Search,< 10%,32.07%,55.74%
+4,Tuesday,Shopping,--,--,--
+4,Tuesday,Video,--,--,--
+4,Tuesday,Demand Gen,--,--,--
+4,Tuesday,Performance Max,--,12.3%,84.09%
+4,Wednesday,Search,< 10%,29.34%,58.33%
+4,Wednesday,Shopping,--,--,--
+4,Wednesday,Video,--,--,--
+4,Wednesday,Demand Gen,--,--,--
+4,Wednesday,Performance Max,--,7.38%,89.07%
+4,Thursday,Search,10.56%,26.35%,59.95%
+4,Thursday,Shopping,--,--,--
+4,Thursday,Video,--,--,--
+4,Thursday,Demand Gen,--,--,--
+4,Thursday,Performance Max,--,8.87%,87.53%
+4,Friday,Search,10.66%,26.79%,59.02%
+4,Friday,Shopping,--,--,--
+4,Friday,Video,--,--,--
+4,Friday,Demand Gen,--,--,--
+4,Friday,Performance Max,--,14.92%,81.44%
+4,Saturday,Search,10.85%,28.58%,57%
+4,Saturday,Shopping,--,--,--
+4,Saturday,Video,--,--,--
+4,Saturday,Demand Gen,--,--,--
+4,Saturday,Performance Max,--,14.11%,81.47%
+5,Sunday,Search,10.9%,35.64%,50.36%
+5,Sunday,Shopping,--,--,--
+5,Sunday,Video,--,--,--
+5,Sunday,Demand Gen,--,--,--
+5,Sunday,Performance Max,--,18.86%,77.58%
+5,Monday,Search,10.27%,38.44%,47.72%
+5,Monday,Shopping,--,--,--
+5,Monday,Video,--,--,--
+5,Monday,Demand Gen,--,--,--
+5,Monday,Performance Max,--,15.56%,81.32%
+5,Tuesday,Search,< 10%,31.24%,55.33%
+5,Tuesday,Shopping,--,--,--
+5,Tuesday,Video,--,--,--
+5,Tuesday,Demand Gen,--,--,--
+5,Tuesday,Performance Max,--,13.32%,83.04%
+5,Wednesday,Search,< 10%,29.5%,57.2%
+5,Wednesday,Shopping,--,--,--
+5,Wednesday,Video,--,--,--
+5,Wednesday,Demand Gen,--,--,--
+5,Wednesday,Performance Max,--,6.99%,89.33%
+5,Thursday,Search,10.1%,26.02%,60.22%
+5,Thursday,Shopping,--,--,--
+5,Thursday,Video,--,--,--
+5,Thursday,Demand Gen,--,--,--
+5,Thursday,Performance Max,--,8.21%,88.3%
+5,Friday,Search,10.97%,30.3%,54.37%
+5,Friday,Shopping,--,--,--
+5,Friday,Video,--,--,--
+5,Friday,Demand Gen,--,--,--
+5,Friday,Performance Max,--,14.76%,81.55%
+5,Saturday,Search,10.55%,28.03%,57.91%
+5,Saturday,Shopping,--,--,--
+5,Saturday,Video,--,--,--
+5,Saturday,Demand Gen,--,--,--
+5,Saturday,Performance Max,--,13.62%,82.28%
+6,Sunday,Search,10.4%,35.2%,50.97%
+6,Sunday,Shopping,--,--,--
+6,Sunday,Video,--,--,--
+6,Sunday,Demand Gen,--,--,--
+6,Sunday,Performance Max,--,18.83%,77.98%
+6,Monday,Search,< 10%,38%,48.29%
+6,Monday,Shopping,--,--,--
+6,Monday,Video,--,--,--
+6,Monday,Demand Gen,--,--,--
+6,Monday,Performance Max,--,16.2%,80.88%
+6,Tuesday,Search,< 10%,30.82%,55.85%
+6,Tuesday,Shopping,--,--,--
+6,Tuesday,Video,--,--,--
+6,Tuesday,Demand Gen,--,--,--
+6,Tuesday,Performance Max,--,14.11%,82.57%
+6,Wednesday,Search,10.18%,31.95%,54.31%
+6,Wednesday,Shopping,--,--,--
+6,Wednesday,Video,--,--,--
+6,Wednesday,Demand Gen,--,--,--
+6,Wednesday,Performance Max,--,6.83%,89.29%
+6,Thursday,Search,10.01%,26.47%,60.01%
+6,Thursday,Shopping,--,--,--
+6,Thursday,Video,--,--,--
+6,Thursday,Demand Gen,--,--,--
+6,Thursday,Performance Max,--,8.07%,88.44%
+6,Friday,Search,10.42%,27.46%,57.78%
+6,Friday,Shopping,--,--,--
+6,Friday,Video,--,--,--
+6,Friday,Demand Gen,--,--,--
+6,Friday,Performance Max,--,14.04%,82.38%
+6,Saturday,Search,10.81%,28.81%,56.96%
+6,Saturday,Shopping,--,--,--
+6,Saturday,Video,--,--,--
+6,Saturday,Demand Gen,--,--,--
+6,Saturday,Performance Max,--,13.42%,82.38%
+7,Sunday,Search,10.97%,35.63%,50.09%
+7,Sunday,Shopping,--,--,--
+7,Sunday,Video,--,--,--
+7,Sunday,Demand Gen,--,--,--
+7,Sunday,Performance Max,--,18.59%,78.12%
+7,Monday,Search,< 10%,36.97%,49.22%
+7,Monday,Shopping,--,--,--
+7,Monday,Video,--,--,--
+7,Monday,Demand Gen,--,--,--
+7,Monday,Performance Max,--,16.04%,80.97%
+7,Tuesday,Search,< 10%,31.07%,56.26%
+7,Tuesday,Shopping,--,--,--
+7,Tuesday,Video,--,--,--
+7,Tuesday,Demand Gen,--,--,--
+7,Tuesday,Performance Max,--,13.05%,83.8%
+7,Wednesday,Search,< 10%,30.47%,56.46%
+7,Wednesday,Shopping,--,--,--
+7,Wednesday,Video,--,--,--
+7,Wednesday,Demand Gen,--,--,--
+7,Wednesday,Performance Max,--,7.03%,89.19%
+7,Thursday,Search,< 10%,25.01%,61.74%
+7,Thursday,Shopping,--,--,--
+7,Thursday,Video,--,--,--
+7,Thursday,Demand Gen,--,--,--
+7,Thursday,Performance Max,--,8.32%,88.47%
+7,Friday,Search,< 10%,27.24%,58.83%
+7,Friday,Shopping,--,--,--
+7,Friday,Video,--,--,--
+7,Friday,Demand Gen,--,--,--
+7,Friday,Performance Max,--,13.3%,83.27%
+7,Saturday,Search,10.62%,28.37%,57.52%
+7,Saturday,Shopping,--,--,--
+7,Saturday,Video,--,--,--
+7,Saturday,Demand Gen,--,--,--
+7,Saturday,Performance Max,--,12.92%,83.28%
+8,Sunday,Search,10.69%,35.12%,50.68%
+8,Sunday,Shopping,--,--,--
+8,Sunday,Video,--,--,--
+8,Sunday,Demand Gen,--,--,--
+8,Sunday,Performance Max,--,18.34%,78.75%
+8,Monday,Search,< 10%,37.18%,49.23%
+8,Monday,Shopping,--,--,--
+8,Monday,Video,--,--,--
+8,Monday,Demand Gen,--,--,--
+8,Monday,Performance Max,--,15.39%,81.55%
+8,Tuesday,Search,< 10%,30.69%,55.9%
+8,Tuesday,Shopping,--,--,--
+8,Tuesday,Video,--,--,--
+8,Tuesday,Demand Gen,--,--,--
+8,Tuesday,Performance Max,--,12.25%,84.51%
+8,Wednesday,Search,< 10%,29.35%,57.33%
+8,Wednesday,Shopping,--,--,--
+8,Wednesday,Video,--,--,--
+8,Wednesday,Demand Gen,--,--,--
+8,Wednesday,Performance Max,--,6.82%,89.79%
+8,Thursday,Search,< 10%,26.31%,60.58%
+8,Thursday,Shopping,--,--,--
+8,Thursday,Video,--,--,--
+8,Thursday,Demand Gen,--,--,--
+8,Thursday,Performance Max,--,8.77%,88.07%
+8,Friday,Search,< 10%,29.42%,56.87%
+8,Friday,Shopping,--,--,--
+8,Friday,Video,--,--,--
+8,Friday,Demand Gen,--,--,--
+8,Friday,Performance Max,--,12.17%,84.36%
+8,Saturday,Search,< 10%,27.59%,58.99%
+8,Saturday,Shopping,--,--,--
+8,Saturday,Video,--,--,--
+8,Saturday,Demand Gen,--,--,--
+8,Saturday,Performance Max,--,12.75%,83.47%
+9,Sunday,Search,10.77%,36.34%,49.31%
+9,Sunday,Shopping,--,--,--
+9,Sunday,Video,--,--,--
+9,Sunday,Demand Gen,--,--,--
+9,Sunday,Performance Max,--,19.07%,78%
+9,Monday,Search,< 10%,37.08%,49.57%
+9,Monday,Shopping,--,--,--
+9,Monday,Video,--,--,--
+9,Monday,Demand Gen,--,--,--
+9,Monday,Performance Max,--,15.06%,81.93%
+9,Tuesday,Search,< 10%,31.76%,55.14%
+9,Tuesday,Shopping,--,--,--
+9,Tuesday,Video,--,--,--
+9,Tuesday,Demand Gen,--,--,--
+9,Tuesday,Performance Max,--,12.4%,84.43%
+9,Wednesday,Search,< 10%,28.62%,58.09%
+9,Wednesday,Shopping,--,--,--
+9,Wednesday,Video,--,--,--
+9,Wednesday,Demand Gen,--,--,--
+9,Wednesday,Performance Max,--,6.59%,89.96%
+9,Thursday,Search,< 10%,26.23%,61.13%
+9,Thursday,Shopping,--,--,--
+9,Thursday,Video,--,--,--
+9,Thursday,Demand Gen,--,--,--
+9,Thursday,Performance Max,--,8.76%,88.01%
+9,Friday,Search,10.51%,28.37%,57.14%
+9,Friday,Shopping,--,--,--
+9,Friday,Video,--,--,--
+9,Friday,Demand Gen,--,--,--
+9,Friday,Performance Max,--,12.07%,84.58%
+9,Saturday,Search,< 10%,28.47%,58.51%
+9,Saturday,Shopping,--,--,--
+9,Saturday,Video,--,--,--
+9,Saturday,Demand Gen,--,--,--
+9,Saturday,Performance Max,--,12.57%,83.66%
+10,Sunday,Search,< 10%,37.06%,49.64%
+10,Sunday,Shopping,--,--,--
+10,Sunday,Video,--,--,--
+10,Sunday,Demand Gen,--,--,--
+10,Sunday,Performance Max,--,19.37%,77.88%
+10,Monday,Search,< 10%,38%,49.07%
+10,Monday,Shopping,--,--,--
+10,Monday,Video,--,--,--
+10,Monday,Demand Gen,--,--,--
+10,Monday,Performance Max,--,14.81%,82.35%
+10,Tuesday,Search,< 10%,32.84%,54.35%
+10,Tuesday,Shopping,--,--,--
+10,Tuesday,Video,--,--,--
+10,Tuesday,Demand Gen,--,--,--
+10,Tuesday,Performance Max,--,12.82%,84.13%
+10,Wednesday,Search,< 10%,27.38%,59.67%
+10,Wednesday,Shopping,--,--,--
+10,Wednesday,Video,--,--,--
+10,Wednesday,Demand Gen,--,--,--
+10,Wednesday,Performance Max,--,7.02%,89.51%
+10,Thursday,Search,< 10%,26.76%,60.76%
+10,Thursday,Shopping,--,--,--
+10,Thursday,Video,--,--,--
+10,Thursday,Demand Gen,--,--,--
+10,Thursday,Performance Max,--,9.19%,87.72%
+10,Friday,Search,< 10%,28.93%,57.35%
+10,Friday,Shopping,--,--,--
+10,Friday,Video,--,--,--
+10,Friday,Demand Gen,--,--,--
+10,Friday,Performance Max,--,11.78%,83.99%
+10,Saturday,Search,< 10%,28.02%,58.78%
+10,Saturday,Shopping,--,--,--
+10,Saturday,Video,--,--,--
+10,Saturday,Demand Gen,--,--,--
+10,Saturday,Performance Max,--,12.51%,83.84%
+11,Sunday,Search,< 10%,37.3%,49.46%
+11,Sunday,Shopping,--,--,--
+11,Sunday,Video,--,--,--
+11,Sunday,Demand Gen,--,--,--
+11,Sunday,Performance Max,--,19.42%,77.81%
+11,Monday,Search,< 10%,37.13%,50.05%
+11,Monday,Shopping,--,--,--
+11,Monday,Video,--,--,--
+11,Monday,Demand Gen,--,--,--
+11,Monday,Performance Max,--,15.31%,81.72%
+11,Tuesday,Search,< 10%,30.88%,56.42%
+11,Tuesday,Shopping,--,--,--
+11,Tuesday,Video,--,--,--
+11,Tuesday,Demand Gen,--,--,--
+11,Tuesday,Performance Max,--,13.07%,83.97%
+11,Wednesday,Search,< 10%,27.13%,60.25%
+11,Wednesday,Shopping,--,--,--
+11,Wednesday,Video,--,--,--
+11,Wednesday,Demand Gen,--,--,--
+11,Wednesday,Performance Max,--,7.14%,89.67%
+11,Thursday,Search,< 10%,26.44%,60.85%
+11,Thursday,Shopping,--,--,--
+11,Thursday,Video,--,--,--
+11,Thursday,Demand Gen,--,--,--
+11,Thursday,Performance Max,--,9.47%,87.41%
+11,Friday,Search,< 10%,28.89%,57.37%
+11,Friday,Shopping,--,--,--
+11,Friday,Video,--,--,--
+11,Friday,Demand Gen,--,--,--
+11,Friday,Performance Max,--,11.28%,84.61%
+11,Saturday,Search,< 10%,28.55%,58.62%
+11,Saturday,Shopping,--,--,--
+11,Saturday,Video,--,--,--
+11,Saturday,Demand Gen,--,--,--
+11,Saturday,Performance Max,--,11.86%,84.66%
+12,Sunday,Search,< 10%,37.18%,50.17%
+12,Sunday,Shopping,--,--,--
+12,Sunday,Video,--,--,--
+12,Sunday,Demand Gen,--,--,--
+12,Sunday,Performance Max,--,19.59%,77.64%
+12,Monday,Search,< 10%,36.15%,51.67%
+12,Monday,Shopping,--,--,--
+12,Monday,Video,--,--,--
+12,Monday,Demand Gen,--,--,--
+12,Monday,Performance Max,--,15.88%,81.38%
+12,Tuesday,Search,< 10%,30.62%,56.65%
+12,Tuesday,Shopping,--,--,--
+12,Tuesday,Video,--,--,--
+12,Tuesday,Demand Gen,--,--,--
+12,Tuesday,Performance Max,--,13.67%,83.41%
+12,Wednesday,Search,< 10%,27.62%,59.58%
+12,Wednesday,Shopping,--,--,--
+12,Wednesday,Video,--,--,--
+12,Wednesday,Demand Gen,--,--,--
+12,Wednesday,Performance Max,--,7.49%,89.36%
+12,Thursday,Search,< 10%,27.16%,60.45%
+12,Thursday,Shopping,--,--,--
+12,Thursday,Video,--,--,--
+12,Thursday,Demand Gen,--,--,--
+12,Thursday,Performance Max,--,9.89%,86.93%
+12,Friday,Search,< 10%,27.59%,58.72%
+12,Friday,Shopping,--,--,--
+12,Friday,Video,--,--,--
+12,Friday,Demand Gen,--,--,--
+12,Friday,Performance Max,--,11.57%,84.99%
+12,Saturday,Search,< 10%,27.38%,59.89%
+12,Saturday,Shopping,--,--,--
+12,Saturday,Video,--,--,--
+12,Saturday,Demand Gen,--,--,--
+12,Saturday,Performance Max,--,11.86%,84.6%
+13,Sunday,Search,< 10%,34.22%,53.4%
+13,Sunday,Shopping,--,--,--
+13,Sunday,Video,--,--,--
+13,Sunday,Demand Gen,--,--,--
+13,Sunday,Performance Max,--,19.37%,77.56%
+13,Monday,Search,< 10%,36.53%,51.17%
+13,Monday,Shopping,--,--,--
+13,Monday,Video,--,--,--
+13,Monday,Demand Gen,--,--,--
+13,Monday,Performance Max,--,16.08%,80.81%
+13,Tuesday,Search,< 10%,29.94%,57.44%
+13,Tuesday,Shopping,--,--,--
+13,Tuesday,Video,--,--,--
+13,Tuesday,Demand Gen,--,--,--
+13,Tuesday,Performance Max,--,13.77%,83.12%
+13,Wednesday,Search,< 10%,25.39%,61.6%
+13,Wednesday,Shopping,--,--,--
+13,Wednesday,Video,--,--,--
+13,Wednesday,Demand Gen,--,--,--
+13,Wednesday,Performance Max,--,7.76%,88.95%
+13,Thursday,Search,< 10%,27.22%,59.98%
+13,Thursday,Shopping,--,--,--
+13,Thursday,Video,--,--,--
+13,Thursday,Demand Gen,--,--,--
+13,Thursday,Performance Max,--,9.31%,87.49%
+13,Friday,Search,< 10%,27.59%,59.23%
+13,Friday,Shopping,--,--,--
+13,Friday,Video,--,--,--
+13,Friday,Demand Gen,--,--,--
+13,Friday,Performance Max,--,10.96%,85.69%
+13,Saturday,Search,< 10%,27.38%,60.22%
+13,Saturday,Shopping,--,--,--
+13,Saturday,Video,--,--,--
+13,Saturday,Demand Gen,--,--,--
+13,Saturday,Performance Max,--,11.42%,85.1%
+14,Sunday,Search,< 10%,32.56%,54.27%
+14,Sunday,Shopping,--,--,--
+14,Sunday,Video,--,--,--
+14,Sunday,Demand Gen,--,--,--
+14,Sunday,Performance Max,--,18.94%,78.06%
+14,Monday,Search,< 10%,35.74%,52.33%
+14,Monday,Shopping,--,--,--
+14,Monday,Video,--,--,--
+14,Monday,Demand Gen,--,--,--
+14,Monday,Performance Max,--,15.89%,81.26%
+14,Tuesday,Search,< 10%,28.73%,58.5%
+14,Tuesday,Shopping,--,--,--
+14,Tuesday,Video,--,--,--
+14,Tuesday,Demand Gen,--,--,--
+14,Tuesday,Performance Max,--,14.62%,82.1%
+14,Wednesday,Search,< 10%,24.67%,62.41%
+14,Wednesday,Shopping,--,--,--
+14,Wednesday,Video,--,--,--
+14,Wednesday,Demand Gen,--,--,--
+14,Wednesday,Performance Max,--,7.96%,88.83%
+14,Thursday,Search,< 10%,27.57%,59.34%
+14,Thursday,Shopping,--,--,--
+14,Thursday,Video,--,--,--
+14,Thursday,Demand Gen,--,--,--
+14,Thursday,Performance Max,--,8.76%,87.89%
+14,Friday,Search,10.08%,26.17%,60.44%
+14,Friday,Shopping,--,--,--
+14,Friday,Video,--,--,--
+14,Friday,Demand Gen,--,--,--
+14,Friday,Performance Max,--,10.73%,85.85%
+14,Saturday,Search,< 10%,27.15%,60.19%
+14,Saturday,Shopping,--,--,--
+14,Saturday,Video,--,--,--
+14,Saturday,Demand Gen,--,--,--
+14,Saturday,Performance Max,--,11.25%,85.17%
+15,Sunday,Search,10.21%,32.28%,53.97%
+15,Sunday,Shopping,--,--,--
+15,Sunday,Video,--,--,--
+15,Sunday,Demand Gen,--,--,--
+15,Sunday,Performance Max,--,18.99%,77.8%
+15,Monday,Search,< 10%,35.8%,52.2%
+15,Monday,Shopping,--,--,--
+15,Monday,Video,--,--,--
+15,Monday,Demand Gen,--,--,--
+15,Monday,Performance Max,--,14.35%,82.48%
+15,Tuesday,Search,< 10%,27.55%,59.67%
+15,Tuesday,Shopping,--,--,--
+15,Tuesday,Video,--,--,--
+15,Tuesday,Demand Gen,--,--,--
+15,Tuesday,Performance Max,--,14.76%,82.1%
+15,Wednesday,Search,< 10%,23.7%,63.07%
+15,Wednesday,Shopping,--,--,--
+15,Wednesday,Video,--,--,--
+15,Wednesday,Demand Gen,--,--,--
+15,Wednesday,Performance Max,--,7.96%,88.69%
+15,Thursday,Search,< 10%,24.68%,62.19%
+15,Thursday,Shopping,--,--,--
+15,Thursday,Video,--,--,--
+15,Thursday,Demand Gen,--,--,--
+15,Thursday,Performance Max,--,8.76%,87.83%
+15,Friday,Search,< 10%,25.47%,61.06%
+15,Friday,Shopping,--,--,--
+15,Friday,Video,--,--,--
+15,Friday,Demand Gen,--,--,--
+15,Friday,Performance Max,--,10.71%,85.89%
+15,Saturday,Search,< 10%,22.88%,63.83%
+15,Saturday,Shopping,--,--,--
+15,Saturday,Video,--,--,--
+15,Saturday,Demand Gen,--,--,--
+15,Saturday,Performance Max,--,11.43%,85%
+16,Sunday,Search,< 10%,31.92%,54.92%
+16,Sunday,Shopping,--,--,--
+16,Sunday,Video,--,--,--
+16,Sunday,Demand Gen,--,--,--
+16,Sunday,Performance Max,--,18.31%,78.42%
+16,Monday,Search,< 10%,35.57%,51.55%
+16,Monday,Shopping,--,--,--
+16,Monday,Video,--,--,--
+16,Monday,Demand Gen,--,--,--
+16,Monday,Performance Max,--,13.64%,82.87%
+16,Tuesday,Search,< 10%,26.43%,60.9%
+16,Tuesday,Shopping,--,--,--
+16,Tuesday,Video,--,--,--
+16,Tuesday,Demand Gen,--,--,--
+16,Tuesday,Performance Max,--,13.24%,83.46%
+16,Wednesday,Search,< 10%,23.04%,63.66%
+16,Wednesday,Shopping,--,--,--
+16,Wednesday,Video,--,--,--
+16,Wednesday,Demand Gen,--,--,--
+16,Wednesday,Performance Max,--,7.73%,88.67%
+16,Thursday,Search,< 10%,24.05%,63.45%
+16,Thursday,Shopping,--,--,--
+16,Thursday,Video,--,--,--
+16,Thursday,Demand Gen,--,--,--
+16,Thursday,Performance Max,--,8.87%,87.57%
+16,Friday,Search,10.55%,25.2%,60.55%
+16,Friday,Shopping,--,--,--
+16,Friday,Video,--,--,--
+16,Friday,Demand Gen,--,--,--
+16,Friday,Performance Max,--,10.21%,86.09%
+16,Saturday,Search,10.55%,21.94%,64.19%
+16,Saturday,Shopping,--,--,--
+16,Saturday,Video,--,--,--
+16,Saturday,Demand Gen,--,--,--
+16,Saturday,Performance Max,--,10.55%,85.59%
+17,Sunday,Search,< 10%,29.8%,56.99%
+17,Sunday,Shopping,--,--,--
+17,Sunday,Video,--,--,--
+17,Sunday,Demand Gen,--,--,--
+17,Sunday,Performance Max,--,17.12%,79.38%
+17,Monday,Search,10.32%,34.79%,51.42%
+17,Monday,Shopping,--,--,--
+17,Monday,Video,--,--,--
+17,Monday,Demand Gen,--,--,--
+17,Monday,Performance Max,--,14.39%,81.97%
+17,Tuesday,Search,< 10%,26.43%,60.63%
+17,Tuesday,Shopping,--,--,--
+17,Tuesday,Video,--,--,--
+17,Tuesday,Demand Gen,--,--,--
+17,Tuesday,Performance Max,--,11.93%,84.68%
+17,Wednesday,Search,10.45%,22.05%,63.84%
+17,Wednesday,Shopping,--,--,--
+17,Wednesday,Video,--,--,--
+17,Wednesday,Demand Gen,--,--,--
+17,Wednesday,Performance Max,--,7.13%,88.93%
+17,Thursday,Search,< 10%,22.43%,64.2%
+17,Thursday,Shopping,--,--,--
+17,Thursday,Video,--,--,--
+17,Thursday,Demand Gen,--,--,--
+17,Thursday,Performance Max,--,8.76%,87.38%
+17,Friday,Search,11.1%,25.02%,59.94%
+17,Friday,Shopping,--,--,--
+17,Friday,Video,--,--,--
+17,Friday,Demand Gen,--,--,--
+17,Friday,Performance Max,--,10.1%,86.21%
+17,Saturday,Search,10.7%,20.74%,65.09%
+17,Saturday,Shopping,--,--,--
+17,Saturday,Video,--,--,--
+17,Saturday,Demand Gen,--,--,--
+17,Saturday,Performance Max,--,10.51%,85.75%
+18,Sunday,Search,< 10%,28.57%,58.24%
+18,Sunday,Shopping,--,--,--
+18,Sunday,Video,--,--,--
+18,Sunday,Demand Gen,--,--,--
+18,Sunday,Performance Max,--,15.31%,81.06%
+18,Monday,Search,< 10%,33.11%,53.77%
+18,Monday,Shopping,--,--,--
+18,Monday,Video,--,--,--
+18,Monday,Demand Gen,--,--,--
+18,Monday,Performance Max,--,13.83%,82.25%
+18,Tuesday,Search,< 10%,25.57%,61.56%
+18,Tuesday,Shopping,--,--,--
+18,Tuesday,Video,--,--,--
+18,Tuesday,Demand Gen,--,--,--
+18,Tuesday,Performance Max,--,11.31%,84.98%
+18,Wednesday,Search,10.43%,20.22%,65.9%
+18,Wednesday,Shopping,--,--,--
+18,Wednesday,Video,--,--,--
+18,Wednesday,Demand Gen,--,--,--
+18,Wednesday,Performance Max,--,7.13%,88.38%
+18,Thursday,Search,10.33%,19.31%,66.63%
+18,Thursday,Shopping,--,--,--
+18,Thursday,Video,--,--,--
+18,Thursday,Demand Gen,--,--,--
+18,Thursday,Performance Max,--,8.29%,87.63%
+18,Friday,Search,11.01%,23.63%,61.14%
+18,Friday,Shopping,--,--,--
+18,Friday,Video,--,--,--
+18,Friday,Demand Gen,--,--,--
+18,Friday,Performance Max,--,10.06%,85.86%
+18,Saturday,Search,10.22%,19.57%,66.98%
+18,Saturday,Shopping,--,--,--
+18,Saturday,Video,--,--,--
+18,Saturday,Demand Gen,--,--,--
+18,Saturday,Performance Max,--,10.78%,85.14%
+19,Sunday,Search,< 10%,26.99%,60.09%
+19,Sunday,Shopping,--,--,--
+19,Sunday,Video,--,--,--
+19,Sunday,Demand Gen,--,--,--
+19,Sunday,Performance Max,--,15.03%,81.58%
+19,Monday,Search,< 10%,29.73%,57.26%
+19,Monday,Shopping,--,--,--
+19,Monday,Video,--,--,--
+19,Monday,Demand Gen,--,--,--
+19,Monday,Performance Max,--,13.61%,82.09%
+19,Tuesday,Search,< 10%,19.84%,67.11%
+19,Tuesday,Shopping,--,--,--
+19,Tuesday,Video,--,--,--
+19,Tuesday,Demand Gen,--,--,--
+19,Tuesday,Performance Max,--,11.47%,84.76%
+19,Wednesday,Search,10.29%,17.19%,69.37%
+19,Wednesday,Shopping,--,--,--
+19,Wednesday,Video,--,--,--
+19,Wednesday,Demand Gen,--,--,--
+19,Wednesday,Performance Max,--,7.56%,88.01%
+19,Thursday,Search,10.85%,18.19%,67.35%
+19,Thursday,Shopping,--,--,--
+19,Thursday,Video,--,--,--
+19,Thursday,Demand Gen,--,--,--
+19,Thursday,Performance Max,--,7.51%,88.31%
+19,Friday,Search,10.92%,18.72%,66.84%
+19,Friday,Shopping,--,--,--
+19,Friday,Video,--,--,--
+19,Friday,Demand Gen,--,--,--
+19,Friday,Performance Max,--,10.26%,85.18%
+19,Saturday,Search,10.18%,18.56%,68.27%
+19,Saturday,Shopping,--,--,--
+19,Saturday,Video,--,--,--
+19,Saturday,Demand Gen,--,--,--
+19,Saturday,Performance Max,--,10.55%,85.42%
+20,Sunday,Search,10.19%,21.9%,64.76%
+20,Sunday,Shopping,--,--,--
+20,Sunday,Video,--,--,--
+20,Sunday,Demand Gen,--,--,--
+20,Sunday,Performance Max,--,13.19%,83.25%
+20,Monday,Search,10.02%,21.5%,65.64%
+20,Monday,Shopping,--,--,--
+20,Monday,Video,--,--,--
+20,Monday,Demand Gen,--,--,--
+20,Monday,Performance Max,--,13.72%,81.82%
+20,Tuesday,Search,< 10%,16.69%,71.11%
+20,Tuesday,Shopping,--,--,--
+20,Tuesday,Video,--,--,--
+20,Tuesday,Demand Gen,--,--,--
+20,Tuesday,Performance Max,--,11.37%,84.65%
+20,Wednesday,Search,< 10%,14.15%,73.22%
+20,Wednesday,Shopping,--,--,--
+20,Wednesday,Video,--,--,--
+20,Wednesday,Demand Gen,--,--,--
+20,Wednesday,Performance Max,--,6.3%,88.75%
+20,Thursday,Search,10.26%,16.52%,69.92%
+20,Thursday,Shopping,--,--,--
+20,Thursday,Video,--,--,--
+20,Thursday,Demand Gen,--,--,--
+20,Thursday,Performance Max,--,7.01%,88.8%
+20,Friday,Search,10.47%,14.4%,72.36%
+20,Friday,Shopping,--,--,--
+20,Friday,Video,--,--,--
+20,Friday,Demand Gen,--,--,--
+20,Friday,Performance Max,--,10.8%,84.55%
+20,Saturday,Search,< 10%,15.21%,71.97%
+20,Saturday,Shopping,--,--,--
+20,Saturday,Video,--,--,--
+20,Saturday,Demand Gen,--,--,--
+20,Saturday,Performance Max,--,9.77%,86.13%
+21,Sunday,Search,< 10%,17.02%,69.78%
+21,Sunday,Shopping,--,--,--
+21,Sunday,Video,--,--,--
+21,Sunday,Demand Gen,--,--,--
+21,Sunday,Performance Max,--,11.75%,84.73%
+21,Monday,Search,< 10%,16.22%,72.72%
+21,Monday,Shopping,--,--,--
+21,Monday,Video,--,--,--
+21,Monday,Demand Gen,--,--,--
+21,Monday,Performance Max,--,13.41%,82.32%
+21,Tuesday,Search,< 10%,13.71%,74.83%
+21,Tuesday,Shopping,--,--,--
+21,Tuesday,Video,--,--,--
+21,Tuesday,Demand Gen,--,--,--
+21,Tuesday,Performance Max,--,11.07%,84.99%
+21,Wednesday,Search,< 10%,10.35%,77.28%
+21,Wednesday,Shopping,--,--,--
+21,Wednesday,Video,--,--,--
+21,Wednesday,Demand Gen,--,--,--
+21,Wednesday,Performance Max,--,4.81%,> 90%
+21,Thursday,Search,< 10%,11.57%,75.64%
+21,Thursday,Shopping,--,--,--
+21,Thursday,Video,--,--,--
+21,Thursday,Demand Gen,--,--,--
+21,Thursday,Performance Max,--,6.33%,89.46%
+21,Friday,Search,< 10%,8.76%,78.51%
+21,Friday,Shopping,--,--,--
+21,Friday,Video,--,--,--
+21,Friday,Demand Gen,--,--,--
+21,Friday,Performance Max,--,10.73%,84.71%
+21,Saturday,Search,< 10%,12.1%,75.3%
+21,Saturday,Shopping,--,--,--
+21,Saturday,Video,--,--,--
+21,Saturday,Demand Gen,--,--,--
+21,Saturday,Performance Max,--,7.99%,87.94%
+22,Sunday,Search,< 10%,12.66%,74.96%
+22,Sunday,Shopping,--,--,--
+22,Sunday,Video,--,--,--
+22,Sunday,Demand Gen,--,--,--
+22,Sunday,Performance Max,--,12.7%,83.95%
+22,Monday,Search,< 10%,7.58%,81.92%
+22,Monday,Shopping,--,--,--
+22,Monday,Video,--,--,--
+22,Monday,Demand Gen,--,--,--
+22,Monday,Performance Max,--,10.64%,85.05%
+22,Tuesday,Search,< 10%,7.59%,81.12%
+22,Tuesday,Shopping,--,--,--
+22,Tuesday,Video,--,--,--
+22,Tuesday,Demand Gen,--,--,--
+22,Tuesday,Performance Max,--,10.86%,85.2%
+22,Wednesday,Search,< 10%,6.99%,81.51%
+22,Wednesday,Shopping,--,--,--
+22,Wednesday,Video,--,--,--
+22,Wednesday,Demand Gen,--,--,--
+22,Wednesday,Performance Max,--,3.76%,> 90%
+22,Thursday,Search,< 10%,5.62%,82.19%
+22,Thursday,Shopping,--,--,--
+22,Thursday,Video,--,--,--
+22,Thursday,Demand Gen,--,--,--
+22,Thursday,Performance Max,--,6.1%,89.68%
+22,Friday,Search,< 10%,4.75%,83.16%
+22,Friday,Shopping,--,--,--
+22,Friday,Video,--,--,--
+22,Friday,Demand Gen,--,--,--
+22,Friday,Performance Max,--,7.57%,88.25%
+22,Saturday,Search,< 10%,9.52%,77.64%
+22,Saturday,Shopping,--,--,--
+22,Saturday,Video,--,--,--
+22,Saturday,Demand Gen,--,--,--
+22,Saturday,Performance Max,--,8.41%,87.32%
+23,Sunday,Search,< 10%,9.08%,79.38%
+23,Sunday,Shopping,--,--,--
+23,Sunday,Video,--,--,--
+23,Sunday,Demand Gen,--,--,--
+23,Sunday,Performance Max,--,12.5%,84.4%
+23,Monday,Search,< 10%,4.56%,84.6%
+23,Monday,Shopping,--,--,--
+23,Monday,Video,--,--,--
+23,Monday,Demand Gen,--,--,--
+23,Monday,Performance Max,--,8.72%,87.32%
+23,Tuesday,Search,< 10%,4.83%,84.56%
+23,Tuesday,Shopping,--,--,--
+23,Tuesday,Video,--,--,--
+23,Tuesday,Demand Gen,--,--,--
+23,Tuesday,Performance Max,--,11.19%,85.07%
+23,Wednesday,Search,< 10%,4.13%,84.54%
+23,Wednesday,Shopping,--,--,--
+23,Wednesday,Video,--,--,--
+23,Wednesday,Demand Gen,--,--,--
+23,Wednesday,Performance Max,--,3.49%,> 90%
+23,Thursday,Search,< 10%,2.84%,86.19%
+23,Thursday,Shopping,--,--,--
+23,Thursday,Video,--,--,--
+23,Thursday,Demand Gen,--,--,--
+23,Thursday,Performance Max,--,6.55%,89.33%
+23,Friday,Search,< 10%,4.3%,84.58%
+23,Friday,Shopping,--,--,--
+23,Friday,Video,--,--,--
+23,Friday,Demand Gen,--,--,--
+23,Friday,Performance Max,--,8.62%,87.29%
+23,Saturday,Search,< 10%,5.52%,82.66%
+23,Saturday,Shopping,--,--,--
+23,Saturday,Video,--,--,--
+23,Saturday,Demand Gen,--,--,--
+23,Saturday,Performance Max,--,8.77%,86.84%

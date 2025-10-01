@@ -1,0 +1,20 @@
+Campaign,Budget,Bid strategy type,Target ROAS,Target CPA,Actual ROAS,Actual CPA,Search impr. share,Recommended budget,Campaign type,Spend,Conversions
+US/CA_Search_Unbranded_General-CoolingMattressTopper_Broad_MaxConv,425,Maximize Conversions (Target CPA),--,580.00,2.6,839.76,< 10%,650,Search,38416.16,45.75
+US/CA_Search_Unbranded_General-Menopause_MaxConvtCPA,225,Maximize Conversions (Target CPA),--,535.00,0,0,--,370,Search,0,0
+US_Search_Branded_MaxConversiontCPA,175,Maximize Conversions (Target CPA),--,210.00,21.85,88.79,71.95%,530,Search,4861.01,54.75
+US/CA_Search_Unbranded_General-CoolingPad_Broad_MaxConvtCPA,375,Maximize Conversions (Target CPA),--,650.00,0,0,--,580,Search,0,0
+US/CA_Search_Unbranded_Competitor_SleepNumber_MaxConv,100,Maximize Conversions,--,--,1.66,1242.94,24.54%,--,Search,3728.81,3
+US_Shopping_Unbranded_tROAS,300,Target ROAS,280%,--,3.86,624.88,48.19%,--,Shopping,1242.04,1.99
+US/CA_Search_Unbranded_General-AirConditionedBed_MaxConvtCPA,350,Maximize Conversions (Target CPA),--,517.14,0,0,--,530,Search,0,0
+US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,375,Maximize Conversions (Target CPA),--,600.00,3.97,533.25,18.72%,880,Performance Max,10197.39,19.12
+CA_PerformanceMax_TotalCoverage_MaxConvValue,200,Maximize Conversion Value,--,--,0,0,--,--,Performance Max,0,0
+US/CA_Search_Unbranded_General-SleepSystem_MaxConvtCPA,300,Maximize Conversions (Target CPA),--,400.00,0,0,--,--,Search,0,0
+US/CA_Search_Unbranded_Competitor_BedJet_MaxConvtCPA,120,Maximize Conversions (Target CPA),--,600.00,1.99,1187.17,26.72%,360,Search,11087.97,9.34
+US_PerformanceMax_TotalCoverage_MaxConvtCPA,425,Maximize Conversions (Target CPA),--,600.00,4.47,464.21,17.82%,880,Performance Max,80737.96,173.92
+CA_Shopping_Unbranded_tROAS,300,Target ROAS,240%,--,0,0,--,--,Shopping,0,0
+US/CA_Search_Unbranded_Competitor_ChiliSleep_MaxConvtCPA,100,Maximize Conversions (Target CPA),--,600.00,1.24,1712.31,33.24%,--,Search,10273.86,6
+US/CA_Search_Unbranded_Competitor_EightSleep_MaxConvtCPA,100,Maximize Conversions (Target CPA),--,600.00,1.98,1084.06,19.28%,300,Search,16406.66,15.13
+US/CA_Search_Unbranded_DSA_MaxConvtCPA,425,Maximize Conversions (Target CPA),--,433.00,0,0,--,--,Search,0,0
+CA_Search_Branded_MaxConversion,100,Maximize Conversions,--,--,0,0,--,--,Search,0,0
+US_DemandGen_Broad_MaxConv,250,Maximize Conversions,--,--,0,0,--,--,Demand Gen,0,0
+US/CA_Search_Unbranded_General-TemperatureControl_Broad_MaxConv,350,Maximize Conversions,--,--,0,0,--,--,Search,0,0

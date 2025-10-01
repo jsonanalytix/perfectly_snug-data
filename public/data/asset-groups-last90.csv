@@ -1,0 +1,21 @@
+Asset Group,Campaign,Impr.,Cost,Conv. value,Conv. value / cost,New customers,Conv. rate,Conversions,Cost / conv.
+Asset Group No. 1,Performance Max / NA / $270,0,0,0,0,0.00,0%,0,0
+The Smart Topper,PMax: NA - G Shopping Generic,0,0,0,0,0.00,0%,0,0
+Feed Only - Interests,CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,0,0,0,0,0.00,0%,0,0
+Feed Only - Interests,US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,511306,14181.19,56894.64,4.01,0.00,0.07%,23.99,591.21
+Feed - Assets - Interests,US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,3519617,14261.22,40648.77,2.85,0.00,0.02%,18.27,780.47
+Feed Only - No Interests,US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,457119,8817.82,32611.49,3.7,0.00,0.11%,14.41,612.13
+Feed Only - Interests,CA_PerformanceMax_TotalCoverage_MaxConvValue,51169,4565.18,16621.62,3.64,0.00,0.47%,7.31,624.93
+Feed Only - No Interests,CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,0,0,0,0,0.00,0%,0,0
+Feed Only,US_PerformanceMax_TotalCoverage_MaxConvtCPA,314293,12935.64,45015.88,3.48,17.19,0.11%,19.24,672.31
+Feed Only - Interests,US_PerformanceMax_TotalCoverage_MaxConvtCPA,607912,14421.3,31095.52,2.16,12.28,0.1%,13.28,1085.59
+Feed - Assets - Interests (BREEZE25),CA_PerformanceMax_TotalCoverage_MaxConvValue,797,206.39,0,0,0.00,0%,0,0
+Feed - Assets - Interests,CA_PerformanceMax_TotalCoverage_MaxConvValue,319204,11724.96,54101.59,4.61,0.00,0.5%,22.88,512.47
+Feed - Assets - Interests,CA_PerformanceMax_ExcludeAllBrands_MaxConvValue,0,0,0,0,0.00,0%,0,0
+Feed - Assets - Interests (BREEZE25),US_PerformanceMax_TotalCoverage_MaxConvtCPA,16569,242.88,0,0,0.00,0%,0,0
+Feed Only,CA_PerformanceMax_TotalCoverage_MaxConvValue,86165,4433.29,6253.46,1.41,0.00,0.18%,2.74,1619.69
+Feed - Assets - Interests,US_PerformanceMax_TotalCoverage_MaxConvtCPA,553894,22207.84,61860.96,2.79,21.31,0.03%,26.72,831.2
+Broad,US_PerformanceMax_Assets+Feed_MaxConvValue,0,0,0,0,0.00,0%,0,0
+Feed - Assets - Interests (BREEZE25),US_PerformanceMax_ExcludeAllBrands_MaxConvtCPA,44400,240.63,0,0,0.00,0%,0,0
+,,6482445,108238.35,345103.94,3.19,50.79,0.05%,148.83,727.27
+,,11020704,356742.59,1464627.2,4.11,78.52,0.03%,641.51,556.1

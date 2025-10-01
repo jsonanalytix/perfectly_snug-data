@@ -1,0 +1,5 @@
+conversionAction,status,includeInConversions,attributionModel,countingMethod,enhancedConversions,conversions,conversionsValue,allConversions,allConversionsValue
+Purchase,ENABLED,True,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,MANY_PER_CLICK,False,147.5407,331812.26,147.5407,331812.26
+Add To Cart Feed For Google Shopping app #20220304230152,ENABLED,False,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,MANY_PER_CLICK,False,0.0,0.0,781.1877,1926799.79
+Begin Checkout Feed For Google Shopping app #20220304230152,ENABLED,False,GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN,MANY_PER_CLICK,False,0.0,0.0,482.4414,1226354.91
+YouTube channel subscriptions,ENABLED,False,GOOGLE_ADS_LAST_CLICK,ONE_PER_CLICK,False,0.0,0.0,2.0,2.0
